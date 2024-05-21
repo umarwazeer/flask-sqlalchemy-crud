@@ -8,7 +8,6 @@ This project is a demonstration of CRUD (Create, Read, Update, Delete) operation
 - [Usage](#usage)
 - [Endpoints](#endpoints)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
